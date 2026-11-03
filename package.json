@@ -12,7 +12,7 @@
     "README.md"
   ],
   "scripts": {
-    "test": "node --test test/"
+    "test": "node --test test/cli.test.mjs"
   },
   "dependencies": {
     "@oktopeak/clio-mcp": "^2.5.0",
