@@ -1,0 +1,48 @@
+{
+  "name": "@oktopeak/clio-export",
+  "version": "1.0.0",
+  "description": "Free, open-source, read-only export of a whole Clio account to your own computer: matters, contacts, notes, tasks, calendar, time entries, expenses, bills as JSON and CSV, and every document as a file in a folder per matter. Resumable. Runs under your own Clio app.",
+  "type": "module",
+  "bin": {
+    "clio-export": "bin/clio-export.js"
+  },
+  "files": [
+    "bin",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "@oktopeak/clio-mcp": "^2.5.0",
+    "dotenv": "^16.6.1"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "clio",
+    "clio-manage",
+    "clio-export",
+    "clio-backup",
+    "export",
+    "backup",
+    "data-export",
+    "law-firm",
+    "legal-tech",
+    "practice-management",
+    "documents",
+    "cli"
+  ],
+  "author": "Oktopeak <office@oktopeak.com> (https://oktopeak.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oktopeak/clio-export.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oktopeak/clio-export/issues"
+  },
+  "homepage": "https://oktopeak.com/clio-export/?utm_source=npm&utm_medium=package&utm_campaign=clio-export&utm_content=homepage"
+}
