@@ -14,6 +14,10 @@ npx @oktopeak/clio-export --out ./clio-export
 
 Walkthrough: **[oktopeak.com/clio-export/](https://oktopeak.com/clio-export/?utm_source=github&utm_medium=readme&utm_campaign=clio-export&utm_content=top)**
 
+Video, 2.5 minutes: **[what Clio's export leaves out, and the whole run](https://youtu.be/s7Okd2KsKdk)**
+
+[![Clio Export walkthrough video](https://i.ytimg.com/vi/s7Okd2KsKdk/hqdefault.jpg)](https://youtu.be/s7Okd2KsKdk)
+
 MIT licence. Built and maintained by [Oktopeak](https://oktopeak.com/?utm_source=github&utm_medium=readme&utm_campaign=clio-export&utm_content=byline).
 
 ---
